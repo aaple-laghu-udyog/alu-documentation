@@ -1,0 +1,19 @@
+Gather/ Note the requirements in phases. 1/2/3
+POC technologies
+  Java service oreinted.
+  Backend ->  Stand alone web application configured on container - Spring boot 
+              AWS lambdas in java
+  Frontend -> Angular vs React note .. start with Angular
+  Database ->  Relational DB vs Non Relational vs CMS
+  Environments -> Dev/Test/Prod
+  Jenkins/Build system - CI/CD
+  
+For phase 1 - 
+  Create high level architecture
+  Breakdown into lower level components end to end
+  Each component low level architecture. 
+  
+  Start development of each component
+  Write unit tests
+  Write funtional/integration tests
+  Deploy
